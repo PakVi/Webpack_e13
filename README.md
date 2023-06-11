@@ -25,5 +25,4 @@ json-server --watch db.json <br>
 
 http://localhost:3000 <br>
 
-коммит с  линтером <br>
-git commit -a -m "commit" <br>
+
