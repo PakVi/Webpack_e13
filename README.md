@@ -1,29 +1,29 @@
 # Webpack_e13
 
-Порядок действий
+Порядок действий <br>
 
-npm i
-npm i --save-dev ajv
-
-
-В режиме разработки
-
-npm run start-dev
-
-http://localhost:8080/
-
-В рабочем режиме
-
-npm run start-prod
-
-http://localhost:8080/
+npm i <br>
+npm i --save-dev ajv <br>
 
 
-JSON-сервер
+В режиме разработки <br>
 
-json-server --watch db.json
+npm run start-dev <br>
 
-http://localhost:3000
+http://localhost:8080/ <br>
 
-коммит с  линтером:
-git commit -a -m "commit"
+В рабочем режиме <br>
+
+npm run start-prod <br>
+
+http://localhost:8080/ <br>
+
+
+JSON-сервер <br>
+
+json-server --watch db.json <br>
+
+http://localhost:3000 <br>
+
+коммит с  линтером <br>
+git commit -a -m "commit" <br>
